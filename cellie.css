@@ -1,0 +1,23 @@
+#Pos {
+    position: relative;
+    margin-top: 25%;
+    text-align: left; 
+    background-color: cadetblue; 
+    padding: 10px; 
+    
+    outline: cadetblue;
+
+}
+
+input{
+    border:1px solid lightgrey;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    outline:cadetblue ;
+    outline-style: dotted;
+}
+
+
+h1{font-family: 'Brush script MT' , cursive; color: cadetblue;}
+h3{font-family: 'Brush script MT' ; color: cadetblue;}
